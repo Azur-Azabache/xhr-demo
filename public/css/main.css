@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+header{
+  background-color: #FFCF1E;
+  padding: 15px;
+  text-align: center;
+}
+.site-container{
+  padding: 15px;
+}
+.visuallyhidden{
+  display: none;
+}
+.articleClass{
+  margin: 60px;
+  font-family: helvetica;
+  text-align: center;
+  list-style-image: url(../assets/images/favicon.png);
+  padding-top: -20px !important;
+}
